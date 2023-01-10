@@ -27,7 +27,7 @@
         {
           "minNumFindings": 1,
           "minConfidence": "POSSIBLE",
-          "displayName": "password",
+          "displayName": "credit card",
           "detectorType": "NIGHTFALL_DETECTOR",
           "nightfallDetector": "CREDIT_CARD_NUMBER"
         }
