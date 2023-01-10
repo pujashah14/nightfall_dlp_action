@@ -23,6 +23,13 @@
           "displayName": "password",
           "detectorType": "NIGHTFALL_DETECTOR",
           "nightfallDetector": "PASSWORD_IN_CODE"
+        },
+        {
+          "minNumFindings": 1,
+          "minConfidence": "POSSIBLE",
+          "displayName": "password",
+          "detectorType": "NIGHTFALL_DETECTOR",
+          "nightfallDetector": "CREDIT_CARD_NUMBER"
         }
       ],
       "logicalOp": "ANY"
