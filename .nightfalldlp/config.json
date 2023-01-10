@@ -34,6 +34,13 @@
         {
           "minNumFindings": 1,
           "minConfidence": "POSSIBLE",
+          "displayName": "phone number",
+          "detectorType": "NIGHTFALL_DETECTOR",
+          "nightfallDetector": "PHONE_NUMBER"
+        },
+        {
+          "minNumFindings": 1,
+          "minConfidence": "POSSIBLE",
           "displayName": "credit card",
           "detectorType": "NIGHTFALL_DETECTOR",
           "nightfallDetector": "CREDIT_CARD_NUMBER"
