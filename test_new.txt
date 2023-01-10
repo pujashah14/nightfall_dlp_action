@@ -5,7 +5,7 @@ String SECRET_KEY = "ASDLKFWERWEFLKJKLJ"
 
 Num CREDIT_CARD_NUMBER = 2424-2424-2424-2424;
 
-String CRYPTO_KEY = "adfwerweffs";
+String CRYPTOGRAPHIC_KEY = "adfwerweffs";
 
 String PASSWORD = "poohbear"; 
 
