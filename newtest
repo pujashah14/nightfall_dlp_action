@@ -1,5 +1,5 @@
 
-String CREDIT_CARD = "2424-2424-2424-2424";
+Num CREDIT_CARD = 2424-2424-2424-2424;
 
 String PASSWORD = "poohbear"; 
 
