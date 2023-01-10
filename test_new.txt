@@ -3,7 +3,7 @@ password is poohbear.
 
 String SECRET_KEY = "ASDLKFWERWEFLKJKLJ"
 
-credit card number = 2424-2424-2424-2424
+Num credit_card_number = 2424-2424-2424-2424;
 
 String PASSWORD = "poohbear"; 
 
