@@ -1,8 +1,0 @@
-
-credit card is: 2424-2424-2424-2424
-
-password is purple
-
-String SECRET_KEY = "ASDLKFWERWEFLKJKLJ";
-
-password is poohbear
