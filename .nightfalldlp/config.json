@@ -12,7 +12,7 @@
         },
         {
           "minNumFindings": 1,
-          "minConfidence": "LIKELY",
+          "minConfidence": "POSSIBLE",
           "displayName": "crypto key",
           "detectorType": "NIGHTFALL_DETECTOR",
           "nightfallDetector": "CRYPTOGRAPHIC_KEY"
