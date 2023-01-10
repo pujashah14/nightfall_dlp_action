@@ -37,6 +37,16 @@
           "displayName": "credit card",
           "detectorType": "NIGHTFALL_DETECTOR",
           "nightfallDetector": "CREDIT_CARD_NUMBER"
+        }, 
+        {
+         "detectorType": "WORD_LIST",
+          "wordList": {
+           "values": ["password"],
+          "isCaseSensitive": false
+        },
+         "displayName": "password",
+          "minNumFindings": 1,
+        "minConfidence": "POSSIBLE"
         }
       ],
       "logicalOp": "ANY"
