@@ -1,4 +1,8 @@
 
+String PASSWORD = "poohbear"; 
+
+String SECRET_KEY = "ASDLKFWERWEFLKJKLJ";
+
 CREDIT_CARD = 2424-2424-2424-2424;
 
 String PASSWORD = "poohbear"; 
