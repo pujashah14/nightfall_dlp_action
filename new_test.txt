@@ -1,0 +1,11 @@
+
+
+String CRYPTOGRAPHIC_KEY = "adfwerweffs";
+
+password is poohbear.
+credit card number: 3434-3434-3434-3434 
+
+social security- 345-46-6756
+
+String SECRET_KEY = "ASDLKFWERWEFLKJKLJ";
+
