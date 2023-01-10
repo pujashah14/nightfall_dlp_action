@@ -1,5 +1,4 @@
 
-password is poohbear. 
 
 String SECRET_KEY = "ASDLKFWERWEFLKJKLJ"
 
