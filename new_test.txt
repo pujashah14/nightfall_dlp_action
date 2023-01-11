@@ -9,4 +9,4 @@ String SECRET_KEY = "ASDLKFWERWEFLKJKLJ";
 
 other notes:
 meeting 1/10 
-call 8154552323 at noon. 
+call 8154552323 at noon 1/11. 
