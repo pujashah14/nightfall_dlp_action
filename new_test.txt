@@ -3,10 +3,10 @@ password is poohbear.
 card # - 4510621101440335
 ss- 345-46-6756
 
-email sasha.evans@gmail.com @ 2pm
+send note to sasha.evans@gmail.com @ 2pm
 
 String SECRET_KEY = "ASDLKFWERWEFLKJKLJ";
 
 other notes:
 meeting 1/10 
-address: 3423 45th street, san francisco, CA 45675
+address: 8405 rain forest lane, fort worth, TX 76123
