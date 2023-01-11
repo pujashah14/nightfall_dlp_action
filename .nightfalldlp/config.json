@@ -41,6 +41,20 @@
         {
           "minNumFindings": 1,
           "minConfidence": "POSSIBLE",
+          "displayName": "street address",
+          "detectorType": "NIGHTFALL_DETECTOR",
+          "nightfallDetector": "STREET_ADDRESS"
+        },
+        {
+          "minNumFindings": 1,
+          "minConfidence": "POSSIBLE",
+          "displayName": "email",
+          "detectorType": "NIGHTFALL_DETECTOR",
+          "nightfallDetector": "EMAIL_ADDRESS"
+        },
+        {
+          "minNumFindings": 1,
+          "minConfidence": "POSSIBLE",
           "displayName": "phone number",
           "detectorType": "NIGHTFALL_DETECTOR",
           "nightfallDetector": "PHONE_NUMBER"
