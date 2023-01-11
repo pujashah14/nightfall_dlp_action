@@ -9,4 +9,4 @@ String SECRET_KEY = "ASDLKFWERWEFLKJKLJ";
 
 other notes:
 meeting 1/10 
-address: 8405 rain forest lane, fort worth, TX 76123
+call 8154552323 at noon. 
