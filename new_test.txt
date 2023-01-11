@@ -1,7 +1,12 @@
 PHONE: 349-345-2323
 password is poohbear.
-cc is: 3434-3434-3434-3434 
-
+card # - 4510621101440335
 ss- 345-46-6756
 
+email sasha.evans@gmail.com @ 2pm
+
 String SECRET_KEY = "ASDLKFWERWEFLKJKLJ";
+
+other notes:
+meeting 1/10 
+address: 3423 45th street, san francisco, CA 
